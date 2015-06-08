@@ -1,2 +1,18 @@
-/ 100
+90/ 100
+Last update Fri May 1 19:46:20 2015 -0700
+
+Error checking for syscalls
+
+file: [src/hw1.cpp] -0
+
+file: [src/ls.h] -0
+
+
+test ls output
+[1;34m1[0m   [1;32ma[0m  aa[0m  b[0m
+c[0m   
++15: Extra - coloring works
+
+-25:ls -R gives segmentation fault
+
 
